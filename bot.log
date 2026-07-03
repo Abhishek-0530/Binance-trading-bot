@@ -1,0 +1,4 @@
+2026-07-03 16:15:18,495 INFO Order Request : {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-07-03 16:15:19,133 INFO Order Response : {}
+2026-07-03 16:15:28,791 INFO Order Request : {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 50000.0, 'timeInForce': 'GTC'}
+2026-07-03 16:15:29,114 INFO Order Response : {}
